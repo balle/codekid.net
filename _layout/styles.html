@@ -1,0 +1,94 @@
+<style>
+    body { 
+        background-color: #000000; 
+        color: #fff; 
+    }
+
+    .burger-icon {
+        display: none;
+    }
+
+    nav {
+        display: block;
+        float: left;
+        width: 15%;
+        margin-top: 15px;
+        margin-left: 15px;
+        margin-right: 42px;
+    }
+
+    .subnav {
+        margin-left: 30px;
+    }
+
+    nav ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        background-color: #666;
+        border: 1px solid black;
+        padding: 10px;
+    }
+
+    nav ul li {
+        margin-bottom: 10px;
+        background-color: #888;
+        border: 2px solid black;
+        padding: 10px;
+        box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    }
+
+    nav ul li::before {
+        content: "# ";
+    }
+
+    nav ul li a {
+        color: white;
+        text-decoration: none;
+        box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    }
+
+    nav ul li a:hover {
+        color: #fff;
+    }
+
+
+    main {
+        float: left;
+        width: 80%;
+    }
+
+    main h1 {
+        background-color: #666;
+        border: 1px solid black;
+        padding: 10px;
+    }
+
+    main h2 {
+        background-color: #333;
+        border: 1px solid black;
+        padding: 10px;          
+    }
+
+    @media only screen and (max-width: 820px) {
+        /* Hide the desktop menu */
+        nav {
+          display: none;
+          width: 90%;
+        }
+        /* Show the burger icon */
+        .burger-icon {
+          display: block;
+          /* Add your burger icon as a background image here */
+          background-image: url('/burger-icon.png');
+          width: 32px;
+          height: 32px;
+          cursor: pointer;
+        }
+
+        main {
+            float: left;
+            width: 100%;
+        }    
+    }
+</style>
