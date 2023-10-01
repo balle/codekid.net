@@ -5,7 +5,7 @@ title: Cooking
 
 # Pizza
 
-## Dough for a domestic oven
+## Dough for a pizza steel or stone in a domestic oven
 
 * 1 kg pizza flour
 * 650 ml warm water
@@ -52,7 +52,7 @@ Do not cook the sauce as it will cook in the oven.
 
 Traditionally peeled tomatos are used for the sauce and crushed by hand.
 
-## Pizza from a baking tray
+## Dough for a baking tray
 
 * 500 g pizza flour
 * 325 ml warm water
