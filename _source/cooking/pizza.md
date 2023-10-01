@@ -7,17 +7,17 @@ title: Cooking
 
 ## Dough for a domestic oven
 
-* 500g pizza flour
-* 325 ml warm water
-* 12g of salt
-* 1g fresh yeast
-* 12g olive oil
+* 1 kg pizza flour
+* 650 ml warm water
+* 20g of salt
+* 1-2g fresh yeast
+* 20g olive oil
 
 Traditionally everything is mixed using your hands.
 
 First mix the salt into the water, than mix 10% (50g) of the flour into it.
 
-Now insert the yeast and mix until it has vanished.
+Now insert the yeast (use 2g if it's cold and 1g if it's hot) and mix until it has vanished.
 
 Afterwards put some flour into the water and stir until it has combined with the rest. Do so with the left over flour until a firm dough has been formed.
 
@@ -27,7 +27,7 @@ Now you work the dough until the olive oil has nearly been absorbed and until yo
 
 Let it rest again for at least 16 hours.
 
-Form 3 pizza balls and let them rest again for at least 1 better 2-3 hours.
+Form 6 pizza balls and let them rest again for at least 1 better 2-3 hours.
 
 Preheat the oven at max temparature (e.g. 275C)
 
