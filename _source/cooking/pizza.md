@@ -56,16 +56,14 @@ Traditionally peeled tomatos are used for the sauce and crushed by hand.
 
 * 500 g pizza flour
 * 325 ml warm water
-* 8 g salt
-* 4 g fresh yeast
-* 6 g olive oil
+* 10 g salt
+* 3 g fresh yeast
+* 10 g olive oil
 
 Combine the dough as described for the domestic oven dough, but let it rest in a warm spot for 2 hours instead of 16. 
 
-Transfer it into the fridge for at least 14 better 24 hours.
+Transfer it into the fridge for at least 8 better 16 hours.
 
-Afterwards cut it into half and press and pull it into baking tray size. It doesnt need to be prebaked.
+Afterwards take it out of the fridge, cut it into half, let the two pieces warm up covered for at least 3-4 hours.  Than form your pizza and preheat the baking tray on 220C. The baking tray is hot after about 20 minutes, rub it with olive oil, transfer the pizza dough on the back of your hands to it, put tomato sauce on it and prebake it for four minutes. Add the grill if you can.
 
-Rub olive oil on a baking tray and bake the pizza dough directly on it in a 220C preheated oven for 14 minutes. 
-
-Turn the pizza after 7 minutes.
+Switch the grill off and get the pizza out, put the toppings and the cheese on top, drizzle some olive oil over it and bake it for another 10 minutes. Turn the pizza clockwise after 5 minutes.
