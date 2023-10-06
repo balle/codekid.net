@@ -37,6 +37,8 @@ Prebake the pizza for 3 minutes on a preheated pizza tray or for 2 minutes on a 
 
 Than put the other ingredients on top, drizzle some olive oil over it and bake for another 5-6 minutes.
 
+Add the grill function if you can and substract a minute from the last baking time.
+
 ## Pizza sauce
 
 * 1 can chopped or peeled tomatos
@@ -62,8 +64,6 @@ Traditionally peeled tomatos are used for the sauce and crushed by hand.
 
 Combine the dough as described for the domestic oven dough, but let it rest in a warm spot for 16 hours.
 
-Cut it into half, form the two pieces to dough balls and let them sit covered for another 1-2 hours. Than form your pizza and preheat the baking tray on 220C. The baking tray is hot after about 20 minutes, rub it with olive oil, transfer the pizza dough on the back of your hands to it, put tomato sauce on top and prebake it for four minutes. You can use baking paper instead of olive oil.
+Cut it into half, form the two pieces to dough balls and let them sit covered for another 1-2 hours. Than form your pizza and preheat the oven on max temperature. Transfer the pizza dough on the back of your hands onto a baking paper on the grillage, put tomato sauce on top and prebake it for three minutes on the lowest rack.
 
-Add the grill if you can.
-
-Switch the grill off, but leave the oven at 220C and get the pizza out, put the toppings and the cheese on top, drizzle some olive oil over it and bake it for another 10 minutes. Turn the baking tray clockwise after 5 minutes.
+Get the pizza out, put the toppings and the cheese on top, drizzle some olive oil over it and bake it for another 5 minutes on the highest rack. Add the grill function or other add 1 minute to the baking time.
