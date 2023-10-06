@@ -66,4 +66,4 @@ Combine the dough as described for the domestic oven dough, but let it rest in a
 
 Cut it into half, form the two pieces to dough balls and let them sit covered for another 1-2 hours. Than form your pizza and preheat the oven on max temperature. Transfer the pizza dough on the back of your hands onto a baking paper on the grate, put tomato sauce on top and prebake it for three minutes on the lowest rack.
 
-Get the pizza out, put the toppings and the cheese on top, drizzle some olive oil over it and bake it for another 5 minutes on the highest rack. Add the grill function or other add 1 minute to the baking time.
+Get the pizza out, put the toppings and the cheese on top, drizzle some olive oil over it and bake it for another 5 minutes on the highest rack. Add the grill function or otherwise add 1 minute to the baking time.
