@@ -46,7 +46,7 @@ Get the pizza out, put the cheese and other ingredients on top, drizzle some oli
 
 [![Pizza with Caputo Pizzeria flour](pizza-caputo_small.jpg)](pizza-caputo.jpg)
 
-* 1 kg pizza Caputo Pizzeria flour
+* 1 kg Caputo Pizzeria flour
 * 625 ml cold water
 * 20g of salt
 * 1-2g fresh yeast
